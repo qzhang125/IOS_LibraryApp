@@ -1,8 +1,8 @@
 # IOS_LibraryApp
-Predefined user1
-Username: psmith
-Password1: 1234
+Predefined user1\n
+Username: psmith\n
+Password1: 1234\n
 
-Predefined user2
-Username: tbrown
-Password: 0000
+Predefined user2\n
+Username: tbrown\n
+Password: 0000\n
