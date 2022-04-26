@@ -3,6 +3,6 @@ Predefined user1 <br />
 Username: psmith <br />
 Password1: 1234 <br />
 
-Predefined user2\n
-Username: tbrown\n
-Password: 0000\n
+Predefined user2<br />
+Username: tbrown<br />
+Password: 0000<br />
